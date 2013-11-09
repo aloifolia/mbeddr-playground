@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-72yv22zydkq2rp1hjh0mo857p5ly92a">
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" />
+  <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" />
+  <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" />
+  <dep model="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" />
+  <dep model="r:638e4431-d4fb-45ee-8ca9-e546a9462bf7(com.mbeddr.core.modules.generator.template.main@generator)" />
+  <dep model="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" />
+  <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
+  <dep model="r:769ad9a0-f26a-4d17-9cc6-f3ae937bc774(com.mbeddr.ext.components.gen_nomw.generator.template.main@generator)" />
+  <dep model="r:7db67fb8-d2c9-4e02-89e5-cbea9152661c(com.mbeddr.core.util.generator.template.main@generator)" />
+  <dep model="r:9596407c-f27a-49d3-abde-3a66293c5b61(com.mbeddr.ext.components.structure)" />
+  <dep model="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" />
+  <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" />
+  <common hash="9q5yftf279exsk1tcqk4w6uhj3rdkvh">
+    <dep root="375383094799903176" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:33527e56-fea6-47d6-9105-ca1061f3d17e(com.mbeddr.core.unittest.generator.template.main@generator)" />
+    <dep model="r:5209fc71-bade-45c9-9079-f2d474f0d6ca(com.mbeddr.core.util.structure)" />
+    <dep model="r:5502bfb4-a967-4ca4-be6d-8754034c6d99(com.mbeddr.core.buildconfig.generator.template.main@generator)" />
+    <dep model="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" />
+    <dep model="r:638e4431-d4fb-45ee-8ca9-e546a9462bf7(com.mbeddr.core.modules.generator.template.main@generator)" />
+    <dep model="r:734c02dd-cc16-4184-99eb-5fd9f43aa37e(com.mbeddr.core.unittest.structure)" />
+    <dep model="r:75ecab8a-8931-4140-afc6-4b46398710fc(com.mbeddr.core.modules.structure)" />
+    <dep model="r:769ad9a0-f26a-4d17-9cc6-f3ae937bc774(com.mbeddr.ext.components.gen_nomw.generator.template.main@generator)" />
+    <dep model="r:7db67fb8-d2c9-4e02-89e5-cbea9152661c(com.mbeddr.core.util.generator.template.main@generator)" />
+    <dep model="r:9596407c-f27a-49d3-abde-3a66293c5b61(com.mbeddr.ext.components.structure)" />
+    <dep model="r:9f0e84b6-2ec7-4f9e-83e0-feedc77b63a3(com.mbeddr.core.statements.structure)" />
+    <dep model="r:f7764ca4-8c75-4049-922b-08516400a727(com.mbeddr.core.base.structure)" />
+    <file name="Components.c" />
+    <file name="Components.h" />
+    <file name="DataStructures.c" />
+    <file name="DataStructures.h" />
+    <file name="FunctionPointers.c" />
+    <file name="FunctionPointers.h" />
+    <file name="Main.c" />
+    <file name="Main.h" />
+    <file name="Makefile" />
+  </common>
+  <source id="375383094798117211" name="FunctionPointers" hash="-akbyjwdwsa7muiw6fbzdjcn74d4d08i" />
+  <source id="375383094798228690" name="Main" hash="-4p42z6s3vxq58it226sufnogv0zzmmr" />
+  <source id="375383094798228742" name="TypeSizeConfiguration (M.main)" hash="11za3y0fyezira4wpnwuxanlmf7smz9" />
+  <source id="375383094798229229" name="BuildConfiguration (M.main)" hash="-butm1qftemcastzckv65o3yy6u6fpw3" />
+  <source id="375383094799884629" name="DataStructures" hash="-3na6e0umhdot49veofazcztwb7sjhqm" />
+  <source id="375383094799903176" name="Components" hash="-40zsdbx1hsswu5l5fv4sgom8p8go7g0" />
+</dependencies>
+

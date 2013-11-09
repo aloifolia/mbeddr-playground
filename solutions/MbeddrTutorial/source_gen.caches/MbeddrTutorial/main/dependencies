@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="MbeddrTutorial.main.Components" file="Components.c" />
+  <dependency className="MbeddrTutorial.main.Components" file="Components.h" />
+  <dependency className="MbeddrTutorial.main.DataStructures" file="DataStructures.c" />
+  <dependency className="MbeddrTutorial.main.DataStructures" file="DataStructures.h" />
+  <dependency className="MbeddrTutorial.main.FunctionPointers" file="FunctionPointers.c" />
+  <dependency className="MbeddrTutorial.main.FunctionPointers" file="FunctionPointers.h" />
+  <dependency className="MbeddrTutorial.main.Main" file="Main.c" />
+  <dependency className="MbeddrTutorial.main.Main" file="Main.h" />
+  <dependency className="MbeddrTutorial.main.Makefile" file="Makefile" />
+</dependenciesRoot>
+
