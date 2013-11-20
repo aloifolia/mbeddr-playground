@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="bk01cqv8w5sdh25k0ofu6quxrsebqcw">
+  <dep model="r:4934c599-dc0b-40c9-8298-f020ee0a4a20(hello-world.typesystem)" hash="-dsl2ohqave7k02dx4m4l2h5k5obqr78" />
+  <dep model="r:c3d66642-5911-42b2-9f5f-60fd6b65e518(hello-world.editor)" hash="-7z3ogdazbcml244sk7wpqmji4ei1skn" />
+  <common>
+    <dep model="r:4934c599-dc0b-40c9-8298-f020ee0a4a20(hello-world.typesystem)" />
+    <dep model="r:c3d66642-5911-42b2-9f5f-60fd6b65e518(hello-world.editor)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+
