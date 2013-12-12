@@ -16,13 +16,7 @@
       <facets>
         <facet type="java" />
       </facets>
-      <external-templates>
-        <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
-      </external-templates>
-      <dependencies>
-        <dependency reexport="false">61c69711-ed61-4850-81d9-7714ff227fb0(com.mbeddr.core.expressions)</dependency>
-        <dependency reexport="false">d7e6ee0c-b102-4dd1-81a4-f213cfd31f93(matrix)</dependency>
-      </dependencies>
+      <external-templates />
       <usedLanguages>
         <usedLanguage>634736cf-ea73-4eb1-abe9-d2ecc5fcf837(com.mbeddr.cc.var.c)</usedLanguage>
         <usedLanguage>d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</usedLanguage>
