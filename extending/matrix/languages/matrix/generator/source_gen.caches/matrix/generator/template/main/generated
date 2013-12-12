@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-5r01mldhbvtsb4gp5b2dcg8jufvn7uu">
+  <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
+  <common hash="-119c7yz3dslm49mj440bbdf97lu6ysg">
+    <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
+    <file name="QueriesGenerated.java" />
+  </common>
+  <source id="6656268949835752837" name="main" hash="-1y8xy8dars54a8nai17d8twp33wcxv1" />
+</dependencies>
+

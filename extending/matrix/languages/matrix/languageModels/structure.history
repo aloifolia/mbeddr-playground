@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="mx0x" modelUID="r:2fa3f837-4000-4bc4-a636-b76aa65f2828(matrix.structure)" version="-1" />
+    </dependencies>
+    <rename id="mx0x.6656268949835838916" type="PROPERTY" from="dimension" to="dimensionsRows" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="mx0x" modelUID="r:2fa3f837-4000-4bc4-a636-b76aa65f2828(matrix.structure)" version="0" />
+    </dependencies>
+    <rename id="mx0x.6656268949836082536" type="CONCEPT" from="VectorType" to="MatrixType" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="mx0x" modelUID="r:2fa3f837-4000-4bc4-a636-b76aa65f2828(matrix.structure)" version="1" />
+    </dependencies>
+    <rename id="mx0x.4136649939487039486" type="CONCEPT" from="CrossProduct" to="CrossProductExpression" />
+  </StructureModification>
+</history>
+
