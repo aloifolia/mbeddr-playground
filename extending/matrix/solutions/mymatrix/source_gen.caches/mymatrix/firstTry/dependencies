@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="mymatrix.firstTry.Makefile" file="Makefile" />
+  <dependency className="mymatrix.firstTry.foo" file="foo.c" />
+  <dependency className="mymatrix.firstTry.foo" file="foo.h" />
+</dependenciesRoot>
+

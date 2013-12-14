@@ -15,8 +15,11 @@
       </models>
       <facets>
         <facet type="java" />
+        <facet type="java" />
       </facets>
-      <external-templates />
+      <external-templates>
+        <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
+      </external-templates>
       <usedLanguages>
         <usedLanguage>634736cf-ea73-4eb1-abe9-d2ecc5fcf837(com.mbeddr.cc.var.c)</usedLanguage>
         <usedLanguage>d4280a54-f6df-4383-aa41-d1b2bffa7eb1(com.mbeddr.core.base)</usedLanguage>
@@ -37,16 +40,11 @@
       </usedDevKits>
       <mapping-priorities>
         <mapping-priority-rule kind="strictly_before">
-          <greater-priority-mapping>
-            <generator generatorUID="905814ef-a460-4dfa-9d5d-2efed4e3c396(matrix#6656268949835752836)" />
-            <external-mapping>
-              <all-local-mappings />
-            </external-mapping>
-          </greater-priority-mapping>
+          <greater-priority-mapping />
           <lesser-priority-mapping>
             <generator generatorUID="be090156-a678-454c-bd8f-89ebd4a0e6af(com.mbeddr.core.modules.gen#1758019824472882132)" />
             <external-mapping>
-              <all-local-mappings />
+              <mapping-node modelUID="r:5f62df63-885f-42f0-80d6-e13ad6c51489(com.mbeddr.core.modules.gen.generator.template.main@generator)" nodeID="1758019824472882133" />
             </external-mapping>
           </lesser-priority-mapping>
         </mapping-priority-rule>

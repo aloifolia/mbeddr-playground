@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:0dbbf75b-9506-4506-924d-e684e3a30b8c(mymatrix.firstTry)/542666729563182997">
+    <nodeInfo nodeId="4502367365093920676" fileName="foo.c" startLine="7" startPosition="2" endLine="7" endPosition="2" conceptFqName="com.mbeddr.core.statements.structure.LocalVarRef" />
+    <nodeInfo nodeId="4502367365093920675" fileName="foo.c" startLine="7" startPosition="2" endLine="7" endPosition="3" conceptFqName="com.mbeddr.core.statements.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4502367365093274283" fileName="foo.c" startLine="8" startPosition="2" endLine="8" endPosition="11" conceptFqName="com.mbeddr.core.modules.structure.ReturnStatement" />
+    <nodeInfo nodeId="4502367365093274284" fileName="foo.c" startLine="8" startPosition="9" endLine="8" endPosition="10" conceptFqName="com.mbeddr.core.expressions.structure.NumberLiteral" />
+    <nodeInfo nodeId="4502367365093274275" fileName="foo.c" startLine="6" startPosition="0" endLine="10" endPosition="0" conceptFqName="com.mbeddr.core.statements.structure.StatementList" />
+    <nodeInfo nodeId="4502367365093274273" fileName="foo.c" startLine="5" startPosition="0" endLine="11" endPosition="0" conceptFqName="com.mbeddr.core.modules.structure.Function" propertyString="main" />
+    <nodeInfo nodeId="542666729563182997" fileName="foo.h" startLine="15" startPosition="0" endLine="16" endPosition="0" conceptFqName="com.mbeddr.core.modules.structure.FunctionPrototype" propertyString="mymatrix.firstTry.main" />
+    <unitInfo nodeId="542666729563182997" fileName="foo.c" startLine="1" startPosition="0" endLine="12" endPosition="0" unitName="mymatrix.firstTry.foo" />
+  </root>
+</debugInfo>
+

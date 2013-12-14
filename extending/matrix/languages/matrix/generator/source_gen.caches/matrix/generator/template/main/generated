@@ -11,7 +11,7 @@
   <dep model="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" />
   <dep model="r:2fa3f837-4000-4bc4-a636-b76aa65f2828(matrix.structure)" hash="70fjz0d60hab4acgbdjkmpr3fhqzj3a" />
-  <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" />
+  <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" hash="cjyswuadg4oqwuajjkujz9o0fxlm0ri" />
   <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
   <common hash="dr8bb8dtxbiruc9ye33utmdwdfkf2h8">
     <dep root="6656268949835752837" />
