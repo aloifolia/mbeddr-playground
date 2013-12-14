@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="73" startPosition="0" endLine="100" endPosition="0" unitName="matrix.typesystem.TypesystemDescriptor$CustomOverloadedOperationsTypesProvider_a_0" />
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="44" startPosition="0" endLine="72" endPosition="0" unitName="matrix.typesystem.TypesystemDescriptor$CustomOverloadedOperationsTypesProvider_a" />
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="22" startPosition="0" endLine="101" endPosition="0" unitName="matrix.typesystem.TypesystemDescriptor" />
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/4002833866078629795">
+    <nodeInfo nodeId="4002833866078629813" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="23" startPosition="126" endLine="24" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078674528" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="26" startPosition="50" endLine="27" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078675842" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="30" startPosition="7" endLine="31" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078675842" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="31" startPosition="51" endLine="32" endPosition="185" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078675842" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="32" startPosition="185" endLine="33" endPosition="333" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078677109" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="35" startPosition="5" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4002833866078677792" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="36" startPosition="0" endLine="37" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078897207" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="37" startPosition="93" endLine="38" endPosition="237" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078678733" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="38" startPosition="237" endLine="39" endPosition="153" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078748181" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="39" startPosition="153" endLine="40" endPosition="230" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866079697484" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="40" startPosition="230" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4002833866079697897" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="42" startPosition="5" endLine="43" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866079697897" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="43" startPosition="55" endLine="44" endPosition="183" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866079697897" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="44" startPosition="183" endLine="45" endPosition="234" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="49" startPosition="46" endLine="50" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="54" startPosition="5" endLine="55" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="55" startPosition="130" endLine="56" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="60" startPosition="30" endLine="61" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="20" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="typeof_MatrixLiteral_InferenceRule#()V" />
+    <nodeInfo nodeId="4002833866078674528" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="26" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="translate#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Iterable;" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="49" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="60" startPosition="0" endLine="63" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="53" startPosition="68" endLine="57" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866078675842" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="29" startPosition="9" endLine="34" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866079697897" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="41" startPosition="0" endLine="46" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="53" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="4002833866078630049" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="24" startPosition="116" endLine="35" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="23" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="20" startPosition="47" endLine="20" endPosition="47" />
+    <scopeInfo nodeId="4002833866078674528" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="26" startPosition="50" endLine="27" endPosition="64" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="49" startPosition="46" endLine="50" endPosition="44" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="60" startPosition="30" endLine="61" endPosition="17" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="20" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="54" startPosition="5" endLine="56" endPosition="45">
+      <varInfo nodeId="4002833866078629795" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078674528" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="26" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="4002833866078674528" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078675842" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="30" startPosition="7" endLine="33" endPosition="333">
+      <varInfo nodeId="4002833866078675842" varName="_info_12389875345" />
+      <varInfo nodeId="4002833866078675842" varName="_nodeToCheck_1029348928467" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079697897" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="42" startPosition="5" endLine="45" endPosition="234">
+      <varInfo nodeId="4002833866079697897" varName="_info_12389875345" />
+      <varInfo nodeId="4002833866079697897" varName="_nodeToCheck_1029348928467" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="49" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="60" startPosition="0" endLine="63" endPosition="0" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="53" startPosition="68" endLine="57" endPosition="5" />
+    <scopeInfo nodeId="4002833866078630055" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="29" startPosition="9" endLine="34" endPosition="7" />
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="53" startPosition="0" endLine="59" endPosition="0">
+      <varInfo nodeId="4002833866078629795" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078630049" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="24" startPosition="116" endLine="35" endPosition="5">
+      <varInfo nodeId="4002833866078630051" varName="element" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078629796" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="23" startPosition="126" endLine="46" endPosition="5">
+      <varInfo nodeId="4002833866078629813" varName="commonElementType_typevar_4002833866078629813" />
+      <varInfo nodeId="4002833866078677795" varName="matrixType" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="23" startPosition="0" endLine="48" endPosition="0">
+      <varInfo nodeId="4002833866078629795" varName="matrixLiteral" />
+      <varInfo nodeId="4002833866078629795" varName="status" />
+      <varInfo nodeId="4002833866078629795" varName="typeCheckingContext" />
+    </scopeInfo>
+    <unitInfo nodeId="4002833866078674528" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="25" startPosition="118" endLine="29" endPosition="5" unitName="matrix.typesystem.typeof_MatrixLiteral_InferenceRule$1" />
+    <unitInfo nodeId="4002833866078629795" fileName="typeof_MatrixLiteral_InferenceRule.java" startLine="19" startPosition="0" endLine="64" endPosition="0" unitName="matrix.typesystem.typeof_MatrixLiteral_InferenceRule" />
+  </root>
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/4002833866078921835">
+    <nodeInfo nodeId="4002833866078922280" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="22" startPosition="126" endLine="23" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078967864" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="23" startPosition="114" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4002833866079013547" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="184" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866079181666" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="31" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866079181666" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="31" startPosition="60" endLine="32" endPosition="239" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866079930023" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="34" startPosition="12" endLine="35" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866079859896" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="36" startPosition="104" endLine="37" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="42" startPosition="46" endLine="43" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="47" startPosition="5" endLine="48" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="48" startPosition="130" endLine="49" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="53" startPosition="30" endLine="54" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="19" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="check_MatrixLiteral_NonTypesystemRule#()V" />
+    <nodeInfo nodeId="4002833866079013011" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="26" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="4002833866079848941" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="35" startPosition="41" endLine="38" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="42" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="53" startPosition="0" endLine="56" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="4002833866079181666" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="29" startPosition="9" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="46" startPosition="68" endLine="50" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866079847443" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="34" startPosition="10" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="46" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="4002833866078968777" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="24" startPosition="0" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="22" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="19" startPosition="50" endLine="19" endPosition="50" />
+    <scopeInfo nodeId="4002833866079013012" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="184" />
+    <scopeInfo nodeId="4002833866079848944" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="36" startPosition="104" endLine="37" endPosition="120" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="42" startPosition="46" endLine="43" endPosition="44" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="53" startPosition="30" endLine="54" endPosition="17" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="19" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="4002833866079181666" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="32" endPosition="239">
+      <varInfo nodeId="4002833866079181666" varName="_reporter_2309309498" />
+      <varInfo nodeId="4002833866079181666" varName="errorTarget" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="47" startPosition="5" endLine="49" endPosition="45">
+      <varInfo nodeId="4002833866078921835" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079013011" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="26" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="4002833866079013011" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079848941" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="35" startPosition="41" endLine="38" endPosition="7">
+      <varInfo nodeId="4002833866079848942" varName="col" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="42" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="53" startPosition="0" endLine="56" endPosition="0" />
+    <scopeInfo nodeId="4002833866078968780" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="29" startPosition="9" endLine="33" endPosition="7" />
+    <scopeInfo nodeId="4002833866079847444" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="34" startPosition="12" endLine="38" endPosition="7" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="46" startPosition="68" endLine="50" endPosition="5" />
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="46" startPosition="0" endLine="52" endPosition="0">
+      <varInfo nodeId="4002833866078921835" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078921836" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="22" startPosition="126" endLine="39" endPosition="5">
+      <varInfo nodeId="4002833866078922283" varName="firstCol" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="22" startPosition="0" endLine="41" endPosition="0">
+      <varInfo nodeId="4002833866078921835" varName="matrixLiteral" />
+      <varInfo nodeId="4002833866078921835" varName="status" />
+      <varInfo nodeId="4002833866078921835" varName="typeCheckingContext" />
+    </scopeInfo>
+    <unitInfo nodeId="4002833866079013011" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="25" startPosition="95" endLine="29" endPosition="5" unitName="matrix.typesystem.check_MatrixLiteral_NonTypesystemRule$1" />
+    <unitInfo nodeId="4002833866078921835" fileName="check_MatrixLiteral_NonTypesystemRule.java" startLine="18" startPosition="0" endLine="57" endPosition="0" unitName="matrix.typesystem.check_MatrixLiteral_NonTypesystemRule" />
+  </root>
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/4136649939484137135">
+    <nodeInfo nodeId="4136649939484349486" fileName="TypesystemDescriptor.java" startLine="55" startPosition="99" endLine="56" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939484352081" fileName="TypesystemDescriptor.java" startLine="56" startPosition="67" endLine="57" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484393459" fileName="TypesystemDescriptor.java" startLine="57" startPosition="61" endLine="58" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484562324" fileName="TypesystemDescriptor.java" startLine="58" startPosition="161" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4136649939484406902" fileName="TypesystemDescriptor.java" startLine="59" startPosition="0" endLine="60" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939484513743" fileName="TypesystemDescriptor.java" startLine="60" startPosition="125" endLine="61" endPosition="348" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939484551322" fileName="TypesystemDescriptor.java" startLine="61" startPosition="348" endLine="62" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939485379928" fileName="TypesystemDescriptor.java" startLine="65" startPosition="132" endLine="66" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939486770036" fileName="TypesystemDescriptor.java" startLine="66" startPosition="60" endLine="67" endPosition="107" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939486774793" fileName="TypesystemDescriptor.java" startLine="67" startPosition="107" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4136649939486765856" fileName="TypesystemDescriptor.java" startLine="68" startPosition="0" endLine="69" endPosition="174" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4136649939484341251" fileName="TypesystemDescriptor.java" startLine="65" startPosition="132" endLine="69" endPosition="174">
+      <varInfo nodeId="4136649939486770039" varName="t" />
+    </scopeInfo>
+    <scopeInfo nodeId="4136649939484172583" fileName="TypesystemDescriptor.java" startLine="55" startPosition="99" endLine="62" endPosition="24">
+      <varInfo nodeId="4136649939484406905" varName="leastCommonSupertypes" />
+      <varInfo nodeId="4136649939484349489" varName="nodes" />
+      <varInfo nodeId="4136649939484513746" varName="resultType" />
+    </scopeInfo>
+  </root>
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/4136649939487104083">
+    <nodeInfo nodeId="4136649939487133405" fileName="TypesystemDescriptor.java" startLine="84" startPosition="99" endLine="85" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939487133412" fileName="TypesystemDescriptor.java" startLine="85" startPosition="67" endLine="86" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939487133417" fileName="TypesystemDescriptor.java" startLine="86" startPosition="61" endLine="87" endPosition="161" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939487133425" fileName="TypesystemDescriptor.java" startLine="87" startPosition="161" endLine="88" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4136649939487133426" fileName="TypesystemDescriptor.java" startLine="88" startPosition="0" endLine="89" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939487133437" fileName="TypesystemDescriptor.java" startLine="89" startPosition="125" endLine="90" endPosition="95" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939487209318" fileName="TypesystemDescriptor.java" startLine="90" startPosition="95" endLine="91" endPosition="179" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939487254453" fileName="TypesystemDescriptor.java" startLine="91" startPosition="179" endLine="92" endPosition="188" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939487133448" fileName="TypesystemDescriptor.java" startLine="92" startPosition="188" endLine="93" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939487107771" fileName="TypesystemDescriptor.java" startLine="96" startPosition="132" endLine="97" endPosition="257" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4136649939487107007" fileName="TypesystemDescriptor.java" startLine="96" startPosition="132" endLine="97" endPosition="257" />
+    <scopeInfo nodeId="4136649939487104183" fileName="TypesystemDescriptor.java" startLine="84" startPosition="99" endLine="93" endPosition="24">
+      <varInfo nodeId="4136649939487133427" varName="leastCommonSupertypes" />
+      <varInfo nodeId="4136649939487133406" varName="nodes" />
+      <varInfo nodeId="4136649939487133438" varName="resultType" />
+    </scopeInfo>
+  </root>
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/6656268949836086030" />
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/6656268949836175677">
+    <nodeInfo nodeId="6656268949836175863" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="25" startPosition="127" endLine="26" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6656268949836185215" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="27" startPosition="186" endLine="28" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6656268949836193394" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="28" startPosition="94" endLine="29" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836219729" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="29" startPosition="144" endLine="30" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836255431" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="30" startPosition="128" endLine="31" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836176127" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="32" startPosition="5" endLine="33" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6656268949836176148" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="33" startPosition="55" endLine="34" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="37" startPosition="46" endLine="38" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="42" startPosition="5" endLine="43" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="43" startPosition="130" endLine="44" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="48" startPosition="27" endLine="49" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="22" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="supertypesOfVectorType_SubtypingRule#()V" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="37" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="48" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isWeak#()Z" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6656268949836176273" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="26" startPosition="52" endLine="32" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="41" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="25" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSubOrSuperTypes#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)Ljava/util/List;" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="22" startPosition="49" endLine="22" endPosition="49" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="37" startPosition="46" endLine="38" endPosition="41" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="48" startPosition="27" endLine="49" endPosition="17" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="22" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="42" startPosition="5" endLine="44" endPosition="45">
+      <varInfo nodeId="6656268949836175677" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="37" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="48" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="6656268949836176279" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="27" startPosition="186" endLine="31" endPosition="62">
+      <varInfo nodeId="6656268949836185218" varName="superType" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" />
+    <scopeInfo nodeId="6656268949836176273" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="26" startPosition="52" endLine="32" endPosition="5">
+      <varInfo nodeId="6656268949836176275" varName="baseSuperType" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="41" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="6656268949836175677" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836175678" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="25" startPosition="127" endLine="34" endPosition="22">
+      <varInfo nodeId="6656268949836175866" varName="superTypes" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="25" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="6656268949836175677" varName="status" />
+      <varInfo nodeId="6656268949836175677" varName="typeCheckingContext" />
+      <varInfo nodeId="6656268949836175677" varName="vectorType" />
+    </scopeInfo>
+    <unitInfo nodeId="6656268949836175677" fileName="supertypesOfVectorType_SubtypingRule.java" startLine="21" startPosition="0" endLine="52" endPosition="0" unitName="matrix.typesystem.supertypesOfVectorType_SubtypingRule" />
+  </root>
+  <root nodeRef="r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)/6656268949836286076">
+    <nodeInfo nodeId="6656268949836286078" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="25" startPosition="127" endLine="26" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078425794" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="27" startPosition="76" endLine="28" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4002833866078425831" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="28" startPosition="94" endLine="29" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078447188" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="29" startPosition="144" endLine="30" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078511522" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="30" startPosition="128" endLine="31" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836286091" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="33" startPosition="186" endLine="34" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6656268949836286097" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="34" startPosition="94" endLine="35" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836286104" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="35" startPosition="144" endLine="36" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078551537" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="36" startPosition="128" endLine="37" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6656268949836286112" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="37" startPosition="128" endLine="38" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4002833866078587723" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="39" startPosition="5" endLine="40" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="4136649939485728271" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="40" startPosition="55" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6656268949836286119" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="41" startPosition="0" endLine="42" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="45" startPosition="46" endLine="46" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="50" startPosition="5" endLine="51" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="51" startPosition="130" endLine="52" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="56" startPosition="27" endLine="57" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="22" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="supertypesOfMatrixType_SubtypingRule#()V" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="45" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="56" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isWeak#()Z" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="49" startPosition="68" endLine="53" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4002833866078330850" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="26" startPosition="52" endLine="32" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="49" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="6656268949836286084" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="32" startPosition="5" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="25" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSubOrSuperTypes#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)Ljava/util/List;" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="22" startPosition="49" endLine="22" endPosition="49" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="45" startPosition="46" endLine="46" endPosition="41" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="56" startPosition="27" endLine="57" endPosition="17" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="22" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="50" startPosition="5" endLine="52" endPosition="45">
+      <varInfo nodeId="6656268949836286076" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="45" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="56" startPosition="0" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="4002833866078330853" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="27" startPosition="76" endLine="31" endPosition="62">
+      <varInfo nodeId="4002833866078425795" varName="superType" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="49" startPosition="68" endLine="53" endPosition="5" />
+    <scopeInfo nodeId="6656268949836286090" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="33" startPosition="186" endLine="38" endPosition="62">
+      <varInfo nodeId="6656268949836286092" varName="superType" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="49" startPosition="0" endLine="55" endPosition="0">
+      <varInfo nodeId="6656268949836286076" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286084" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="32" startPosition="5" endLine="39" endPosition="5">
+      <varInfo nodeId="6656268949836286085" varName="baseSuperType" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286077" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="25" startPosition="127" endLine="42" endPosition="22">
+      <varInfo nodeId="6656268949836286079" varName="superTypes" />
+    </scopeInfo>
+    <scopeInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="25" startPosition="0" endLine="44" endPosition="0">
+      <varInfo nodeId="6656268949836286076" varName="matrixType" />
+      <varInfo nodeId="6656268949836286076" varName="status" />
+      <varInfo nodeId="6656268949836286076" varName="typeCheckingContext" />
+    </scopeInfo>
+    <unitInfo nodeId="6656268949836286076" fileName="supertypesOfMatrixType_SubtypingRule.java" startLine="21" startPosition="0" endLine="60" endPosition="0" unitName="matrix.typesystem.supertypesOfMatrixType_SubtypingRule" />
+  </root>
+</debugInfo>
+

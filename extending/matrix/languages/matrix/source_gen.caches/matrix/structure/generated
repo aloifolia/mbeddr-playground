@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="70fjz0d60hab4acgbdjkmpr3fhqzj3a">
+  <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <common hash="-4j0176m1ftnzjxeydn8bhb0ltx9gnwa">
+    <dep root="4136649939487039486" />
+    <dep root="6656268949835771578" />
+    <dep root="6656268949835792258" />
+    <dep root="6656268949835810785" />
+    <dep root="6656268949836067964" />
+    <dep root="6656268949836082536" />
+    <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:c371cf98-dcc8-4a43-8eb8-8a8096de18b2(com.mbeddr.core.expressions.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="6656268949835771578" name="MatrixLiteral" hash="-7a1gxwffv998c0tujr5xo1z5t15e7p" />
+  <source id="6656268949835792258" name="MatrixLiteralCol" hash="-b9r8580wqqmcfpafzjqfog65x699ca" />
+  <source id="6656268949835810785" name="IMatrixType" hash="-5cb2xwg1byzrakwg2hby0ly4pec0zw5" />
+  <source id="6656268949836067964" name="VectorType" hash="-2guhbdcw47fiilpgpicqo1ui8pozjd7" />
+  <source id="6656268949836082536" name="MatrixType" hash="dllno6c8b7k9fcu2zhav02sjewo8kuu" />
+  <source id="4136649939487039486" name="CrossProductExpression" hash="afzmrajx5rmcqacxns59c76r9yena4" />
+</dependencies>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="32" endPosition="0" unitName="matrix.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="CrossProductExpression_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="matrix.behavior.CrossProductExpression_BehaviorDescriptor" />
+  <unitInfo fileName="IMatrixType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="10" endPosition="0" unitName="matrix.behavior.IMatrixType_BehaviorDescriptor" />
+  <unitInfo fileName="MatrixLiteralCol_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="matrix.behavior.MatrixLiteralCol_BehaviorDescriptor" />
+  <unitInfo fileName="MatrixLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="matrix.behavior.MatrixLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="MatrixType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="matrix.behavior.MatrixType_BehaviorDescriptor" />
+  <unitInfo fileName="VectorType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="25" endPosition="0" unitName="matrix.behavior.VectorType_BehaviorDescriptor" />
+  <root nodeRef="r:fa8152c3-0089-430c-aa8b-8b3cb08e9068(matrix.behavior)/4002833866079183546">
+    <nodeInfo nodeId="4002833866079184171" fileName="VectorType_Behavior.java" startLine="15" startPosition="78" endLine="16" endPosition="256" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939484707896" fileName="VectorType_Behavior.java" startLine="19" startPosition="100" endLine="20" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939484707902" fileName="VectorType_Behavior.java" startLine="20" startPosition="88" endLine="21" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484707918" fileName="VectorType_Behavior.java" startLine="21" startPosition="120" endLine="22" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484707924" fileName="VectorType_Behavior.java" startLine="22" startPosition="65" endLine="23" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getPresentation_1213877396640#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="19" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_cloneForBaseType_4136649939484582416#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+    <scopeInfo nodeId="4002833866079183699" fileName="VectorType_Behavior.java" startLine="12" startPosition="43" endLine="12" endPosition="43" />
+    <scopeInfo nodeId="4002833866079184148" fileName="VectorType_Behavior.java" startLine="15" startPosition="78" endLine="16" endPosition="256" />
+    <scopeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="4002833866079183546" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="15" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="4002833866079183546" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4136649939484707339" fileName="VectorType_Behavior.java" startLine="19" startPosition="100" endLine="23" endPosition="17">
+      <varInfo nodeId="4136649939484707897" varName="clone" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="19" startPosition="0" endLine="25" endPosition="0">
+      <varInfo nodeId="4136649939484707587" varName="baseType" />
+      <varInfo nodeId="4002833866079183546" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="4002833866079183546" fileName="VectorType_Behavior.java" startLine="11" startPosition="0" endLine="26" endPosition="0" unitName="matrix.behavior.VectorType_Behavior" />
+  </root>
+  <root nodeRef="r:fa8152c3-0089-430c-aa8b-8b3cb08e9068(matrix.behavior)/4002833866079229574">
+    <nodeInfo nodeId="4002833866079229579" fileName="MatrixType_Behavior.java" startLine="15" startPosition="78" endLine="16" endPosition="323" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939484608723" fileName="MatrixType_Behavior.java" startLine="19" startPosition="100" endLine="20" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4136649939484608963" fileName="MatrixType_Behavior.java" startLine="20" startPosition="88" endLine="21" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484642697" fileName="MatrixType_Behavior.java" startLine="21" startPosition="120" endLine="22" endPosition="120" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484680462" fileName="MatrixType_Behavior.java" startLine="22" startPosition="120" endLine="23" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4136649939484696797" fileName="MatrixType_Behavior.java" startLine="23" startPosition="65" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getPresentation_1213877396640#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="19" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_cloneForBaseType_4136649939484582416#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+    <scopeInfo nodeId="4002833866079229576" fileName="MatrixType_Behavior.java" startLine="12" startPosition="43" endLine="12" endPosition="43" />
+    <scopeInfo nodeId="4002833866079229578" fileName="MatrixType_Behavior.java" startLine="15" startPosition="78" endLine="16" endPosition="323" />
+    <scopeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="12" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="4002833866079229574" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="15" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="4002833866079229574" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4136649939484583962" fileName="MatrixType_Behavior.java" startLine="19" startPosition="100" endLine="24" endPosition="17">
+      <varInfo nodeId="4136649939484608726" varName="clone" />
+    </scopeInfo>
+    <scopeInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="19" startPosition="0" endLine="26" endPosition="0">
+      <varInfo nodeId="4136649939484608643" varName="baseType" />
+      <varInfo nodeId="4002833866079229574" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="4002833866079229574" fileName="MatrixType_Behavior.java" startLine="11" startPosition="0" endLine="27" endPosition="0" unitName="matrix.behavior.MatrixType_Behavior" />
+  </root>
+  <root nodeRef="r:fa8152c3-0089-430c-aa8b-8b3cb08e9068(matrix.behavior)/4136649939484582413">
+    <nodeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="15" startPosition="97" endLine="16" endPosition="165" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="20" startPosition="130" endLine="21" endPosition="288" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="11" startPosition="0" endLine="13" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+    <nodeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="14" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_cloneForBaseType_4136649939484582416#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+    <nodeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="19" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="callSuper_cloneForBaseType_4136649939484582416#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+    <scopeInfo nodeId="4136649939484582415" fileName="IMatrixType_Behavior.java" startLine="11" startPosition="43" endLine="11" endPosition="43" />
+    <scopeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="15" startPosition="97" endLine="16" endPosition="165" />
+    <scopeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="20" startPosition="130" endLine="21" endPosition="288" />
+    <scopeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="11" startPosition="0" endLine="13" endPosition="0">
+      <varInfo nodeId="4136649939484582413" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="14" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="4136649939484582546" varName="baseType" />
+      <varInfo nodeId="4136649939484582413" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="19" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="4136649939484582546" varName="baseType" />
+      <varInfo nodeId="4136649939484582413" varName="callerConceptFqName" />
+      <varInfo nodeId="4136649939484582413" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="4136649939484582413" fileName="IMatrixType_Behavior.java" startLine="10" startPosition="0" endLine="24" endPosition="0" unitName="matrix.behavior.IMatrixType_Behavior" />
+  </root>
+</debugInfo>
+
