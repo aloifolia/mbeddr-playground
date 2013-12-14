@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="13" startPosition="0" endLine="26" endPosition="0" unitName="matrix.generator.main.QueriesGenerated" />
+  <root nodeRef="r:9bc02f57-a014-464f-816b-c453557c435b(matrix.generator.main@generator)/2992054467179019054">
+    <nodeInfo nodeId="4502367365093342311" fileName="QueriesGenerated.java" startLine="14" startPosition="149" endLine="15" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4502367365093374330" fileName="QueriesGenerated.java" startLine="15" startPosition="114" endLine="16" endPosition="232" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4502367365093547439" fileName="QueriesGenerated.java" startLine="16" startPosition="232" endLine="17" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4502367365093594163" fileName="QueriesGenerated.java" startLine="20" startPosition="149" endLine="21" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4502367365093594169" fileName="QueriesGenerated.java" startLine="21" startPosition="114" endLine="22" endPosition="155" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4502367365093594180" fileName="QueriesGenerated.java" startLine="22" startPosition="155" endLine="23" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="4502367365093342204" fileName="QueriesGenerated.java" startLine="14" startPosition="149" endLine="17" endPosition="19">
+      <varInfo nodeId="4502367365093342314" varName="rowSize" />
+    </scopeInfo>
+    <scopeInfo nodeId="4502367365093594162" fileName="QueriesGenerated.java" startLine="20" startPosition="149" endLine="23" endPosition="19">
+      <varInfo nodeId="4502367365093594164" varName="colSize" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+
