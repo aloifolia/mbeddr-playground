@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="u72o" modelUID="r:4934c599-dc0b-40c9-8298-f020ee0a4a20(hello-world.typesystem)" version="-1" />
+      <model index="5qks" modelUID="r:27808907-f82e-4267-b78d-b18ffa5d7523(hello-world.constraints)" version="-1" />
+      <model index="42kx" modelUID="r:ca8362ba-472d-43e0-9efc-73bdbd6a47f6(hello-world.structure)" version="0" />
+      <model index="gy3f" modelUID="r:87ff51b1-0331-4a74-977c-fa6a952ed234(hello-world.behavior)" version="-1" />
+      <model index="a8b8" modelUID="r:bc95ea0f-b242-4e02-8b84-886d6db42df4(hello-world.generator.template.main@generator)" version="-1" />
+      <model index="nllh" modelUID="r:c3d66642-5911-42b2-9f5f-60fd6b65e518(hello-world.editor)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:c3d66642-5911-42b2-9f5f-60fd6b65e518(hello-world.editor)" newModel="r:c3d66642-5911-42b2-9f5f-60fd6b65e518(helloworld.editor)" />
+    <RenameModel oldModel="r:87ff51b1-0331-4a74-977c-fa6a952ed234(hello-world.behavior)" newModel="r:87ff51b1-0331-4a74-977c-fa6a952ed234(helloworld.behavior)" />
+    <RenameModel oldModel="r:ca8362ba-472d-43e0-9efc-73bdbd6a47f6(hello-world.structure)" newModel="r:ca8362ba-472d-43e0-9efc-73bdbd6a47f6(helloworld.structure)" />
+    <RenameModel oldModel="r:4934c599-dc0b-40c9-8298-f020ee0a4a20(hello-world.typesystem)" newModel="r:4934c599-dc0b-40c9-8298-f020ee0a4a20(helloworld.typesystem)" />
+    <RenameModel oldModel="r:27808907-f82e-4267-b78d-b18ffa5d7523(hello-world.constraints)" newModel="r:27808907-f82e-4267-b78d-b18ffa5d7523(helloworld.constraints)" />
+    <RenameModel oldModel="r:bc95ea0f-b242-4e02-8b84-886d6db42df4(hello-world.generator.template.main@generator)" newModel="r:bc95ea0f-b242-4e02-8b84-886d6db42df4(helloworld.generator.template.main@generator)" />
+  </StructureModification>
+</history>
+

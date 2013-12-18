@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <unitInfo fileName="EditorAspectDescriptorImpl.java" startLine="14" startPosition="0" endLine="43" endPosition="0" unitName="matrix.editor.EditorAspectDescriptorImpl" />
+  <root nodeRef="r:2ffb810c-e51b-4000-9776-f750c2923454(matrix.editor)/2197258428020821854" />
   <root nodeRef="r:2ffb810c-e51b-4000-9776-f750c2923454(matrix.editor)/4002833866079277830">
     <nodeInfo nodeId="4002833866079277830" fileName="VectorType_Editor.java" startLine="21" startPosition="79" endLine="22" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="4002833866079277830" fileName="VectorType_Editor.java" startLine="25" startPosition="89" endLine="26" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />

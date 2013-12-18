@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="9n3hiez2lp1enh1vi7m4zql6lw23r6m">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <common hash="1xefimztnthqb8pb9dfeo50ocrkklsj">
+    <dep root="881719319960116623" />
+    <dep root="881719319960116625" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <file name="DemoApp.java" />
+  </common>
+  <source id="881719319960116623" name="Button" hash="6cbffbfo6k4j8fcpwbwlxfvehbzjpv2" />
+  <source id="881719319960116625" name="Label" hash="e1sk4158c5axbabpveu6rw2nl8ez938" />
+</dependencies>
+

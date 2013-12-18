@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-51b7tycibt9iasku6tyuhna3hzarqxl">
+  <dep model="r:896813a2-461a-46c3-875f-9b2b33e44c67(generator_demo.demoLang1.typesystem)" hash="7w3or5c8a6lpkhu4gn785ro09gn3c0g" />
+  <dep model="r:c01cdfcd-f5c2-475a-acb2-51e52c3b7552(generator_demo.demoLang1.editor)" hash="5y99jdhplsw44im7jy29ly21j1zq2uc" />
+  <common>
+    <dep model="r:896813a2-461a-46c3-875f-9b2b33e44c67(generator_demo.demoLang1.typesystem)" />
+    <dep model="r:c01cdfcd-f5c2-475a-acb2-51e52c3b7552(generator_demo.demoLang1.editor)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

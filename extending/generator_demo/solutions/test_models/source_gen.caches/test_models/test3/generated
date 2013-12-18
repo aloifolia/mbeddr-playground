@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="859996yidpmk64w5l73qoen7mw60eox">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.awt(JDK/java.awt@java_stub)" />
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:59dd7048-b001-47fb-91ba-d77e530f31d6(generator_demo.demoLang3.generator.template.main@generator)" hash="8h70x16s95euflmul84yjrzygactqws" />
+  <common hash="-41wjm9tt2q5td4n3rs8p74aa6yzo6sk">
+    <dep root="881719319960742816" />
+    <dep root="881719319960742818" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.awt(JDK/java.awt@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:59dd7048-b001-47fb-91ba-d77e530f31d6(generator_demo.demoLang3.generator.template.main@generator)" />
+    <file name="DemoApp.java" />
+  </common>
+  <source id="881719319960742816" name="Button" hash="b3wxdgtqwmr80yw0uywtfng56onwoio" />
+  <source id="881719319960742818" name="Label" hash="-4a1h2n2mrceeh2kkhn5aks9ra17iic8" />
+</dependencies>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="g1fv" modelUID="r:6e416377-5ad0-4de0-838e-dd061a395cda(generator_demo.demoLang6.structure)" version="-1" />
+    </dependencies>
+    <rename id="g1fv.9141626058198451330" type="CONCEPT" from="Button" to="Label" />
+  </StructureModification>
+</history>
+

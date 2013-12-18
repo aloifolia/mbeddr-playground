@@ -31,11 +31,6 @@ public class check_MatrixLiteral_NonTypesystemRule extends AbstractNonTypesystem
         MessageTarget errorTarget = new NodeMessageTarget();
         IErrorReporter _reporter_2309309498 = typeCheckingContext.reportTypeError(matrixLiteral, "all columns must have the same size", "r:bc130767-30fc-4826-96c0-0b2cf8feb3a8(matrix.typesystem)", "4002833866079181666", null, errorTarget);
       }
-    } else {
-      System.out.println("Matrix size:");
-      for (SNode col : ListSequence.fromList(SLinkOperations.getTargets(matrixLiteral, "cols", true))) {
-        System.out.println("size: " + ListSequence.fromList(SLinkOperations.getTargets(col, "elements", true)).count());
-      }
     }
   }
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-bweihwbanb814ph24e6wlvvmpil1lh7">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:65eb0b67-61d3-4a18-85ef-f7ee1d639270(generator_demo.demoLang7.generator.template.main@generator)" hash="-72njmfb5epf9zffb012qdqemx14gtlo" />
+  <common hash="eia6p1iz9sdkbz0mkha1mgl1x33o6mf" />
+  <source id="9141626058198745767" hash="8j51mj1s1z4z50tfr66at8n21rnmsjd">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:65eb0b67-61d3-4a18-85ef-f7ee1d639270(generator_demo.demoLang7.generator.template.main@generator)" />
+    <file name="DemoApp.java" />
+  </source>
+</dependencies>
+

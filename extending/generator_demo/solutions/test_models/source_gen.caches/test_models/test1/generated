@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-80qiftzh9x9phzcmguwzgmg2bgxmqp1">
+  <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:a329e97f-7947-42d9-bb8b-00a8618d274c(generator_demo.demoLang1.generator.template.main@generator)" hash="-1vf2lv85rxjykbewszwfmva9ykncvv3" />
+  <common hash="7yxpga7ldrpme5rb88b2xwp7py6qvr" />
+  <source id="2303361045556360244" name="Button" hash="-ccgdix4mg0icu8aurm5v65ewt2opb3u">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:a329e97f-7947-42d9-bb8b-00a8618d274c(generator_demo.demoLang1.generator.template.main@generator)" />
+    <file name="Button.java" />
+  </source>
+  <source id="2303361045556527432" name="Label" hash="-2q3a9x5z1qntm4n2uwe8xtsu4nxoq90">
+    <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#javax.swing(JDK/javax.swing@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:a329e97f-7947-42d9-bb8b-00a8618d274c(generator_demo.demoLang1.generator.template.main@generator)" />
+    <file name="Label.java" />
+  </source>
+</dependencies>
+

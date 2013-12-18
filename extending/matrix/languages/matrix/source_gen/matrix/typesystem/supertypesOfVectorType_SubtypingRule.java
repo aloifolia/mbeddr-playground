@@ -9,10 +9,8 @@ import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.typesystem.inference.TypeCheckingContext;
 import jetbrains.mps.lang.typesystem.runtime.IsApplicableStatus;
 import java.util.ArrayList;
-import jetbrains.mps.internal.collections.runtime.SetSequence;
-import jetbrains.mps.typesystem.inference.TypeChecker;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
@@ -24,12 +22,11 @@ public class supertypesOfVectorType_SubtypingRule extends SubtypingRule_Runtime 
 
   public List<SNode> getSubOrSuperTypes(SNode vectorType, TypeCheckingContext typeCheckingContext, IsApplicableStatus status) {
     List<SNode> superTypes = new ArrayList<SNode>();
-    for (SNode baseSuperType : SetSequence.fromSet(TypeChecker.getInstance().getSubtypingManager().collectImmediateSupertypes(SLinkOperations.getTarget(vectorType, "baseType", true)))) {
-      SNode superType = SConceptOperations.createNewNode("matrix.structure.VectorType", null);
-      SLinkOperations.setTarget(superType, "baseType", SNodeOperations.cast(baseSuperType, "com.mbeddr.core.expressions.structure.Type"), true);
-      SPropertyOperations.set(superType, "dimensionsRows", "" + (SPropertyOperations.getInteger(vectorType, "dimensionsRows")));
-      ListSequence.fromList(superTypes).addElement(superType);
-    }
+    SNode superType = SConceptOperations.createNewNode("matrix.structure.MatrixType", null);
+    SLinkOperations.setTarget(superType, "baseType", SNodeOperations.copyNode(SLinkOperations.getTarget(vectorType, "baseType", true)), true);
+    SPropertyOperations.set(superType, "dimensionsCols", "" + (1));
+    SPropertyOperations.set(superType, "dimensionsRows", "" + (SPropertyOperations.getInteger(vectorType, "dimensionsRows")));
+    ListSequence.fromList(superTypes).addElement(superType);
     // more stuff to be added here: weird special case 
     return superTypes;
   }

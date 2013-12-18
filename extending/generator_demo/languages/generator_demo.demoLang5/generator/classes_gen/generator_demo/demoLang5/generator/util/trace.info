@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:28354ac8-fe34-427f-a13b-44ae7e087a04(generator_demo.demoLang5.generator.util)/9141626058198253352">
+    <nodeInfo nodeId="9141626058198255761" fileName="TextUtil.java" startLine="15" startPosition="44" endLine="16" endPosition="111" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9141626058198289822" fileName="TextUtil.java" startLine="18" startPosition="39" endLine="19" endPosition="76" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="9141626058198319547" fileName="TextUtil.java" startLine="22" startPosition="52" endLine="23" endPosition="104" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9141626058198289074" fileName="TextUtil.java" startLine="18" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+    <nodeInfo nodeId="9141626058198316695" fileName="TextUtil.java" startLine="21" startPosition="7" endLine="24" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="9141626058198257534" fileName="TextUtil.java" startLine="16" startPosition="111" endLine="21" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9141626058198255711" fileName="TextUtil.java" startLine="15" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="fixText#(Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+    <scopeInfo nodeId="9141626058198289075" fileName="TextUtil.java" startLine="18" startPosition="39" endLine="19" endPosition="76" />
+    <scopeInfo nodeId="9141626058198316701" fileName="TextUtil.java" startLine="22" startPosition="52" endLine="23" endPosition="104" />
+    <scopeInfo nodeId="9141626058198289074" fileName="TextUtil.java" startLine="18" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="9141626058198289074" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="9141626058198316695" fileName="TextUtil.java" startLine="21" startPosition="7" endLine="24" endPosition="5">
+      <varInfo nodeId="9141626058198316697" varName="mps" />
+    </scopeInfo>
+    <scopeInfo nodeId="9141626058198255714" fileName="TextUtil.java" startLine="15" startPosition="44" endLine="24" endPosition="5">
+      <varInfo nodeId="9141626058198257537" varName="mpses" />
+      <varInfo nodeId="9141626058198255764" varName="texts" />
+    </scopeInfo>
+    <scopeInfo nodeId="9141626058198255711" fileName="TextUtil.java" startLine="15" startPosition="0" endLine="26" endPosition="0">
+      <varInfo nodeId="9141626058198255721" varName="model" />
+    </scopeInfo>
+    <unitInfo nodeId="9141626058198289074" fileName="TextUtil.java" startLine="17" startPosition="67" endLine="21" endPosition="5" unitName="generator_demo.demoLang5.generator.util.TextUtil$1" />
+    <unitInfo nodeId="9141626058198253352" fileName="TextUtil.java" startLine="14" startPosition="0" endLine="27" endPosition="0" unitName="generator_demo.demoLang5.generator.util.TextUtil" />
+  </root>
+</debugInfo>
+
